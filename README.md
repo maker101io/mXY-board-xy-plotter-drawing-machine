@@ -11,6 +11,8 @@ The board shown in the video is the test version, the updated and upgraded versi
 ![](shared_updated_version.png) </br>
 # Required Components for PCB: </br>
 - **ATmega328P-PU with Bootloader:** https://bit.ly/2U9iwJw </br>
+- **ULN2003 DIP16:** https://bit.ly/3dtexif
+- **CH340G SOP16:** https://bit.ly/2TZXNaC
 - **Type B USB Socket:** https://bit.ly/2WBSQqw </br>
 - **DIP Socket 28/16 Pins:** https://bit.ly/2UahQDK </br>
 - **12/16 MHz Crystal:** https://bit.ly/33FNTyL </br>
