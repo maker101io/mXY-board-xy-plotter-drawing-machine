@@ -24,9 +24,13 @@ The board shown in the video is the test version, the updated and upgraded versi
 - **Power Jack Socket:** http://bit.ly/2QAzFdp </br>
 - **2 Pin Terminal Block:** http://bit.ly/2lEgy58 </br>
 - **Male Pin Header:** https://bit.ly/3ab5h0w </br>
-- **JST B5B-XH Connector:** https://bit.ly/2yXfJeI
+- **JST B5B-XH Connector:** https://bit.ly/2yXfJeI </br>
 # Connections: </br>
-![](mXY_connection.png) </br>
+![](mXY_connection.png) </br></br>
+An extension wire will be required for stepper motors and servos. </br>
+- **5M Extension Wire Cable:** https://bit.ly/3gMZMJa </br></br>
 # Gondola & Bracket: </br>
-![](mXY_img_03.png) </br>
-
+![](mXY_img_03.png) </br></br>
+You can find gondola and stepper motor mounting bracket 3D models in the ZIP file '**Gondola_Bracket_Models**'</br>
+JGAURORA A5S 3D printer was used for 3D models. </br>
+- **JGAURORA A5S 3D Printer:** https://bit.ly/2QH6GUP </br>
