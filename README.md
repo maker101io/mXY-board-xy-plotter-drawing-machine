@@ -24,5 +24,6 @@ The board shown in the video is the test version, the updated and upgraded versi
 - **Power Jack Socket:** http://bit.ly/2QAzFdp </br>
 - **2 Pin Terminal Block:** http://bit.ly/2lEgy58 </br>
 - **Male Pin Header:** https://bit.ly/3ab5h0w </br>
+- **JST B5B-XH Connector:** https://bit.ly/2yXfJeI
 
 
