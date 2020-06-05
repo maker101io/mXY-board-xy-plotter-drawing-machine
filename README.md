@@ -43,3 +43,4 @@ JGAURORA A5S 3D printer was used for 3D models. </br>
 # polargraphcontroller: </br>
 
 - It works fine in **Arduino IDE v1.8.5** https://www.arduino.cc/en/Main/OldSoftwareReleases#previous </br>
+- Download and install the **Arduino IDE v.1.8.5**
