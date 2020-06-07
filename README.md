@@ -51,4 +51,19 @@ JGAURORA A5S 3D printer was used for 3D models. </br>
 - Download and install the **Processing v2.2.1** https://processing.org/download/?processing </br>
 - Download **mXY-Plotter-Drawing-Machine** https://github.com/MertArduino/mXY-board-xy-plotter-drawing-machine/archive/master.zip </br>
 
-# polargraphcontroller: </br>
+# Arduino Source Code: </br>
+- Go to the **mXY-Plotter-Drawing-Machine\arduino-source-code-libraries\libraries** folder. </br>
+- Copy the contents of **arduino-source-code-libraries\libraries** into your **C:\Users\YourPCname\Documents\Arduino\libraries** folder. </br>
+- Go to the **mXY-Plotter-Drawing-Machine\arduino-source-code-libraries** folder. </br>
+- Copy the **polargraph_server_a1** folder and paste it your **C:\Users\YourPCname\Documents\Arduino** folder.</br>
+**The "polargraph_server_a1.ino" file is the edited copy for the ULN2003 driver and 28YBJ-48 stepper motor. You can get the original version here** https://github.com/euphy/polargraphcontroller/releases/tag/2017-11-01-20-30 </br>
+- Open Arduino IDE </br>
+- Go to File -> Sketchbook -> polargraph_server_a1 | Open the **polargraph_server_a1.ino** file. </br>
+- Go to Tools -> Board -> Arduino/Genuino Uno | Select the Board
+- Go to Tools -> Port -> COMx | Select the Port
+- Press the "verify" button in the toolbar to try and compile it.
+- If it compiles, press the "upload" button in the toolbar to upload it.
+- Once you do that, you should confirm that it is working properly - use the serial monitor on the board, set to **57600 baud** to make sure that it is issuing "**READY**" every couple of seconds.
+
+
+
