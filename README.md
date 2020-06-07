@@ -74,6 +74,9 @@ The "polargraph_server_a1.ino" file is the edited copy for the ULN2003 driver an
 - Press the **Run** button in the toolbar to run the sketch. </br>
 
 # polargraphcontroller </br>
-- 
+- Press the **SETUP** button in the toolbar. </br>
+- Define the value for **MM PER REV** as **64**
+- Define the value for **STEPS PER REV** as **4076**
+- For more information about 28BYJ-48 Stepper Motor https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/
 
 
