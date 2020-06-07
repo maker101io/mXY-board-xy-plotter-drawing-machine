@@ -81,6 +81,6 @@ The "polargraph_server_a1.ino" file is the edited copy for the ULN2003 driver an
 - Define the value for **MOTOR MAX SPEED** as **1000** </br>
 - Define the value for **MOTOR ACCELERATION** as **200** </br>
 - For more information about 28BYJ-48 Stepper Motor https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/ </br></br>
-**Machine Size:**</br>
+**Machine Size:**
 - 
 
