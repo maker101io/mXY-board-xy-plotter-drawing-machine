@@ -107,3 +107,7 @@ The "polargraph_server_a1.ino" file is the edited copy for the ULN2003 driver an
 - Find any vector drawing image. Convert image to the SVG format from any converter platform.</br>
 - After select Load Vector from program. Adjust image size with Resize Vector. Move the image to the desired area with Move Vector. Then adjust the area to be printed with Select Area and Set Frame to Area.</br>
 - Finally, click the Draw Vector command to start the machine. </br>
+# Check out these platforms for more: </br>
+- Polargraph controller Copyright Sandy Noble 2018.
+- http://www.polargraph.co.uk/
+- https://github.com/euphy/polargraphcontroller
