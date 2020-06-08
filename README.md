@@ -81,6 +81,29 @@ The "polargraph_server_a1.ino" file is the edited copy for the ULN2003 driver an
 - Define the value for **MOTOR MAX SPEED** as **1000** </br>
 - Define the value for **MOTOR ACCELERATION** as **200** </br>
 - For more information about 28BYJ-48 Stepper Motor https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/ </br></br>
-**Machine Dimensions:**
+**Machine Dimensions:**</br>
 ![](machine_size.jpg) </br></br>
-
+- Remember that your machine size is NOT the same as your surface size.</br>
+- Your PAGE or drawing AREA size will be smaller.</br></br>
+- **Machine Width -** This is the distance between two closest points on the sprockets (between two pulleys). Adjust the size between two pulleys on the Machine Width </br>
+- **Machine Height -** This is the distance from the sprocket axis to bottom of your drawing (board) area. Adjust the Machine Height (height between the pulleyand the end of the panel) </br>
+- After machine dimensions, adjust the size the area you will draw. (If ou will draw on an A4 paper, set the A4 size.) </br>
+- **Home Point -** This is a magic point marked on the centerline, exactly 120mm (12cm) down from the top edge of your machine.</br>
+- Then, first clicthe Center Page and then set the Page Pos Y value 120. </br>
+- Secondly click Center Home Point and set Home Pos Y value 120. </br></br>
+**Servo motor (Pen) settings:** </br>
+- Pen Up Position and Pen Down Position values are the operating angle of the servo motor. </br>
+- Click Serial Port and select Arduino's port from the list of connected devices. </br>
+- When the correct port is selected, the 'No Serial Connection' display will turn GREEN and the port number to which it is CONNECTED will be displayed. </br>
+- Click on 'Command Queue' and command transmission is activated. </br>
+- Click Upload Lift Range, then click Test Lift Range and test the servo motor angle. </br></br>
+**Last Settings - Upload vector image and start the print:** </br>
+- Save your setting. Load your setting every time you turn on the program.</br>
+- Click the Input tab and switch to the main screen of the program.</br>
+- Then we will anually set the gondola for 'Set Home' manually. Move the gondola by manually and move it to the previously defined home point. **The gondola must be adjusted this way before each drawing before clicking 'Set Home'**. </br>
+- After this adjustment is done, Set Home and Set Pen Position are clicked. </br>
+- Click Set Area to specify your drawing are. Then click Set Frame to Area to make all necessary settings for drawing. </br></br>
+**Draw Vector:**</br>
+- Find any vector drawing image. Convert image to the SVG format from any converter platform.</br>
+- After select Load Vector from program. Adjust image size with Resize Vector. Move the image to the desired area with Move Vector. Then adjust the area to be printed with Select Area and Set Frame to Area.</br>
+- Finally, click the Draw Vector command to start the machine. </br>
